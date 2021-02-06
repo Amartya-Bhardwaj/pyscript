@@ -1,2 +1,3 @@
 # pyscript
 Online shopkeeper
+Easiest and funnier way to find your desired shopping link...
